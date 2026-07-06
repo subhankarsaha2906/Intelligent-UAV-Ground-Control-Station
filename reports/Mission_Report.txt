@@ -1,0 +1,20 @@
+=============================================
+UAV GROUND CONTROL STATION VERSION 6
+=============================================
+
+Mission Duration        : 600 sec
+Distance Travelled      : 6.83 km
+Average Speed           : 11.38 m/s
+Battery Remaining       : 48.00 %
+Battery Health          : 99.20 %
+Mission Score           : 75.55
+Mission Risk            : MEDIUM
+Mission Grade           : D
+System Health           : 83.82 %
+Recommendation          : PROCEED WITH CAUTION
+GPS Status              : GOOD
+
+Return To Home : NO
+Emergency Landing : NO
+
+Generated automatically using MATLAB
