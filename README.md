@@ -87,11 +87,11 @@ Intelligent-UAV-Ground-Control-Station
 
 The application automatically creates:
 
-- **Flight_Report.csv** – Flight telemetry and mission data
-- **Mission_Report.txt** – Mission summary and status report
+- 📊 **[Flight_Report.csv](reports/Flight_Report.csv)** – Flight telemetry and mission data
 
-Both sample reports are available in the **Reports** folder.
+- 📝 **[Mission_Report.txt](reports/Mission_Report.txt)** – Mission summary and status report
 
+Both sample reports are available in the **`reports`** folder.
 ---
 
 # 🚀 Applications
