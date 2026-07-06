@@ -36,7 +36,7 @@ The application demonstrates concepts of:
 
 # 🖥 Dashboard Preview
 
-![Dashboard](Images/UAV_GCS_V6_Dashboard.png)
+![Dashboard](images/UAV_GCS_V6_Dashboard.png)
 
 ---
 
@@ -49,10 +49,10 @@ Intelligent-UAV-Ground-Control-Station
 ├── Drone_Telemetry_V6
 ├── README.md
 │
-├── Images
+├── images
 │   └── UAV_GCS_V6_Dashboard.png
 │
-└── Reports
+└── reports
     ├── Flight_Report.csv
     └── Mission_Report.txt
 ```
